@@ -1,1 +1,1 @@
-https://github.com/Prasoona21/Single-Page-CV.git
+https://roadmap.sh/projects/single-page-cv
